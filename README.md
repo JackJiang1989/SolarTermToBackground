@@ -14,9 +14,13 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-Breathtaking photos from countdown vedio in olympic games Beijing 2022 opening ceremony.
+In ancient China, our ancestor named solar terms with such romantic and poetry words which bring the temperature, humidity, sound, smell, taste to me when I read them.
 
-Run the code then destop background will be changed based on the solar term interpreted from the current date. 
+These breathtaking photos for different solar terms taking from countdown video in Beijing winter olympics 2022 opening ceremony.
+
+Run the code then destop's background will be set based on the solar term interpreted from the current date. 
+
+
 
 ## How to Use:
 * download and unzip code
