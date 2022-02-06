@@ -1,4 +1,4 @@
-# SolartermsToBackground
+# SolarTermToBackground
 
 
 [![Contributors][contributors-shield]][contributors-url]
