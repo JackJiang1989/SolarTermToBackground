@@ -16,7 +16,7 @@
 
 In ancient China, our ancestor divided a year with such romantic and poetry names that bring the temperature, humidity, sound, smell, taste to me everytime I read them.
 
-These breathtaking photos for different solar terms taking from countdown video in Beijing winter olympics 2022 opening ceremony.
+These breathtaking photos for different solar terms was taken from countdown video of Beijing winter olympics 2022 opening ceremony.
 
 Run the code then destop's background will be set based on the solar term interpreted from the current date. 
 
