@@ -14,7 +14,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-In ancient China, our ancestor named solar terms with such romantic and poetry words which bring the temperature, humidity, sound, smell, taste to me when I read them.
+In ancient China, our ancestor divided a year with such romantic and poetry names that bring the temperature, humidity, sound, smell, taste to me everytime I read them.
 
 These breathtaking photos for different solar terms taking from countdown video in Beijing winter olympics 2022 opening ceremony.
 
